@@ -1,3 +1,4 @@
+
 package ifba.estruturadados.lista;
 
 public class ListaEncadeada<T> {
